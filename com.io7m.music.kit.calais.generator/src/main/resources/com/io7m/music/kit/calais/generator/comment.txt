@@ -1,0 +1,27 @@
+Calais ${project.version}
+
+The old part of the town, Calais proper (known as Calais-Nord),
+is situated on an artificial island surrounded by canals and
+harbours. The modern part of the town, St-Pierre, lies to the south
+and south-east. In the centre of the old town is the Place d'Armes,
+in which stands the Tour du Guet, or watch-tower, a structure built
+in the 13th century, which was used as a lighthouse until 1848 when
+a new lighthouse was built by the port. South east of the Place
+is the church of Notre-Dame, built during the English occupancy
+of Calais. Arguably, it is the only church built in the English
+perpendicular style in all of France. In this church, former French
+President Charles de Gaulle married his wife, Yvonne Vendroux. South
+of the Place and opposite the Parc St Pierre is the Hôtel-de-ville
+(the town hall), and the belfry from the early 20th century. Today,
+Calais is visited by more than 10 million annually. Aside from being a
+key transport hub, Calais is also a notable fishing port and a centre
+for fish marketing, and some 3,000 people are still employed in the
+lace industry for which the town is also famed.
+
+All credit goes to Quartertone:
+
+  https://freesound.org/people/quartertone/
+
+License:
+
+  http://creativecommons.org/licenses/by/3.0/
